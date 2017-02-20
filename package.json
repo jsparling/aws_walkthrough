@@ -1,0 +1,17 @@
+{
+  "name": "aws_walkthrough",
+  "version": "1.0.0",
+  "description": "A sample project using AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Sparling",
+  "license": "ISC",
+  "dependencies": {
+    "bookshelf": "^0.10.3",
+    "dotenv": "^4.0.0",
+    "knex": "^0.12.7",
+    "pg": "^6.1.2"
+  }
+}
