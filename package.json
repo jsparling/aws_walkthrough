@@ -1,12 +1,16 @@
 {
   "name": "aws_walkthrough",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A sample project using AWS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jake Sparling",
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/jsparling/aws_walkthrough" 
+  },
   "license": "ISC",
   "dependencies": {
     "bookshelf": "^0.10.3",
